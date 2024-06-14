@@ -2,9 +2,14 @@
 //
 
 #include <iostream>
+#include <stdio.h>
+#include <string>
+
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
-    std::cout << "TEST\n";
+
+
+	return 0;
 }
