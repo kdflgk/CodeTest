@@ -9,9 +9,9 @@ void num30802()
 	int nResultTshirt, nResultPen, nResultPenNum;
 
 	int nSize[6];
-	scanf("%d", &nPeople);
-	scanf("%d %d %d %d %d %d", &nSize[0], &nSize[1], &nSize[2], &nSize[3], &nSize[4], &nSize[5]);
-	scanf("%d %d", &nTshirt, &nPen);
+	scanf_s("%d", &nPeople);
+	scanf_s("%d %d %d %d %d %d", &nSize[0], &nSize[1], &nSize[2], &nSize[3], &nSize[4], &nSize[5]);
+	scanf_s("%d %d", &nTshirt, &nPen);
 
 	int temp = 0;
 
