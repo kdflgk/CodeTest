@@ -1,10 +1,9 @@
-﻿#include <iostream>
+#include <iostream>
 #include <stdio.h>
 #include <string>
 #include <cmath>
 #include <vector>
 #include <algorithm>
-#include <queue>
 
 using namespace std;
 
@@ -28,7 +27,7 @@ int main()
 		Chess[i] = color;
 	}
 
-	int count,wCount,bCount;
+	int count, wCount, bCount;
 	int result = 32;
 	for (int x = 0; x < n - 7; x++)
 	{
