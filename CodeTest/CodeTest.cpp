@@ -18,5 +18,6 @@ int main()
 	cin >> num;
 
 
+
 	return 0;
 }
